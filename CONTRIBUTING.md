@@ -1,6 +1,5 @@
 # Contributing to WeatherVista - Interactive Weather App
 
-Thank you for your interest in contributing to the WeatherVista - Interactive Weather App! Contributions from developers like you are invaluable, and we appreciate your effort to make this project better.
 
 ## Table of Contents
 
@@ -66,4 +65,3 @@ Please note that this project follows a [Code of Conduct](CODE_OF_CONDUCT.md). B
 
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Thank you for contributing to the Weather Forecast App! 🌦️
