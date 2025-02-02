@@ -46,7 +46,7 @@ Feel free to customize and use it in your projects.
 
 ## Contribution
 
-Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTING.md).
+Please check :  [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Support
 
